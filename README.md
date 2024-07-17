@@ -1,2 +1,2 @@
-# dont-konw
+# python实现topsis
 topsisreal.py目前是主要实现的读取excel数据转化为numpy矩阵然后进行计算但目前只能得到数据矩阵，下一步要转化为excel数据
