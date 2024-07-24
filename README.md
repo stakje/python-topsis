@@ -1,3 +1,3 @@
 # python实现topsis
 topsisreal.py目前是主要实现的读取excel数据转化为numpy矩阵然后进行计算但目前只能得到数据矩阵，下一步要转化为excel数据
-# 目前topsis的无能症实现过程已经完整上传到EssayPy文件里
+# 目前topsis的完整实现过程已经完整上传到EssayPy文件里
